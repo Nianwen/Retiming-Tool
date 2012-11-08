@@ -1,0 +1,21 @@
+ This is final constraints file: 
+The following are constraints 9.4:
+r_0 - r_1 <= -1
+r_1 - r_2 <= -1
+r_1 - r_7 <= 0
+r_2 - r_3 <= -1
+r_2 - r_6 <= 0
+r_3 - r_4 <= -1
+r_3 - r_5 <= 0
+r_4 - r_5 <= 0
+r_5 - r_6 <= 0
+r_6 - r_7 <= 0
+r_7 - r_0 <= 0
+
+
+The following are reduced constraints 9.5:
+r_1 - r_5 <= -1
+r_5 - r_6 <= 1
+r_6 - r_7 <= 1
+r_7 - r_3 <= -2
+r_7 - r_6 <= -1

@@ -1,0 +1,7 @@
+Following shows the path weight vectors: 
+s^0: 0 -1 -2147483648 -2147483648 -2147483648 -2147483648 -2147483648 -2147483648 
+s^1: 0 -1 -2 -3 -4 -2 -1 0 
+s^2: 0 -1 -2 -2 -3 -2 -1 0 
+s^3: 0 -1 -2 -2 -3 -2 -1 0 
+
+In the 3th iteration, the algorithm reaches the stable value.
